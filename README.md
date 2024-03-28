@@ -36,7 +36,7 @@ Print to the console various operations with them and see what is the result:
 
 **Project Format:** Windows, VB
 
-**GitHub:** https://github.com/ShonHarsh/RPADev-S02P02-GenericValue
+**GitHub:** https://github.com/ShonHarsh/RPADev-S02P02-GenericValue-VB
 
 ### SAMPLE OUTPUT
 
@@ -60,7 +60,7 @@ A standard UiPath, Studio to Orchestrator cloud setup is the base of operation. 
 
 Clone the project to develop or change it.
 
-`git clone https://github.com/ShonHarsh/RPADev-S02P02-GenericValue`
+`git clone https://github.com/ShonHarsh/RPADev-S02P02-GenericValue-VB`
 
 ### LINKS
 - [UiPath Automation Platform](https://www.uipath.com/)
