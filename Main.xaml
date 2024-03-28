@@ -169,7 +169,7 @@
                 <OutArgument x:TypeArguments="ui:GenericValue">[genericCharlie]</OutArgument>
               </ui:AssignOperation.To>
               <ui:AssignOperation.Value>
-                <InArgument x:TypeArguments="ui:GenericValue">["A + B = " + (A + B)]</InArgument>
+                <InArgument x:TypeArguments="ui:GenericValue">["A + C = " + (A + C)]</InArgument>
               </ui:AssignOperation.Value>
             </ui:AssignOperation>
             <ui:AssignOperation sap2010:WorkflowViewState.IdRef="AssignOperation_8">
@@ -177,7 +177,7 @@
                 <OutArgument x:TypeArguments="ui:GenericValue">[genericDelta]</OutArgument>
               </ui:AssignOperation.To>
               <ui:AssignOperation.Value>
-                <InArgument x:TypeArguments="ui:GenericValue">["A + B = " + (A + B)]</InArgument>
+                <InArgument x:TypeArguments="ui:GenericValue">["C + A = " + (C + A)]</InArgument>
               </ui:AssignOperation.Value>
             </ui:AssignOperation>
           </scg:List>
