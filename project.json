@@ -4,10 +4,7 @@
   "description": "Adding and Concatenating GenericValue Variables\r\n\r\nCreate four variables of the GenericValue type in your sequence:\r\n\r\n- A with value “123”\r\n- B with value “456”\r\n- C with value 123\r\n- D with value 456\r\n\r\nPrint to the console various operations with them and see what is the result:\r\n\r\n- A + B\r\n- C + D\r\n- A + C\r\n- C + A",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.23.2-preview]",
-    "UiPath.Mail.Activities": "[1.22.2]",
-    "UiPath.System.Activities": "[24.3.0]",
-    "UiPath.Testing.Activities": "[24.2.0-preview]",
+    "UiPath.System.Activities": "[24.3.1]",
     "UiPath.UIAutomation.Activities": "[24.2.2-preview]"
   },
   "webServices": [],
